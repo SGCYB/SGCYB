@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Steven
 
-<!--
-**SGCYB/SGCYB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub serves as a digital portfolio for my passion projects and hands-on exploration in cybersecurity and IT. I enjoy learning by building, investigating, and experimenting with technology, with a particular interest in digital forensics, network security, security operations, and hardware security.
 
-Here are some ideas to get you started:
+Here you'll find projects that document what I'm learning, the tools and techniques I've worked with, and the problems I've explored along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### URL Investigator
+A cross-platform cybersecurity investigation tool for collecting and analyzing HTTP, DNS, TLS, reputation, and browser security evidence.
+
+### Linksys MR6350 Hardware Security Analysis
+Hardware security and forensic analysis of a Linksys MR6350 router using UART, logic analysis, serial console access, and boot-log examination.
+
+## Areas of Interest
+
+Digital Forensics • Network Security • Security Operations • IT • Hardware Security
