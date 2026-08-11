@@ -12,6 +12,9 @@ A cross-platform cybersecurity investigation tool for collecting and analyzing H
 ### Linksys MR6350 Hardware Security Analysis
 Hardware security and forensic analysis of a Linksys MR6350 router using UART, logic analysis, serial console access, and boot-log examination.
 
+### Windows Digital Forensic Investigation Using Magnet AXIOM 
+Windows digital forensics case study using Magnet AXIOM to analyze user activity, browser history, email artifacts, filesystem metadata, and protected data.
+
 ## Areas of Interest
 
 Digital Forensics • Network Security • Security Operations • IT • Hardware Security
