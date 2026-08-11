@@ -1,4 +1,4 @@
-# Hi, I'm Steven
+# Hello!
 
 This GitHub serves as a digital portfolio for my passion projects and hands-on exploration in cybersecurity and IT. I enjoy learning by building, investigating, and experimenting with technology, with a particular interest in digital forensics, network security, security operations, and hardware security.
 
