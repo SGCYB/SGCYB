@@ -15,6 +15,7 @@ I'm always looking for another system to understand, tool to learn, or rabbit ho
 
 * Junior at [Ferris State University](https://ferris.edu) studying [Information Security & Intelligence](https://www.ferris.edu/business/information-security-intelligence/homepage.htm) 
 * Expected graduation: December 2027
+* Working as an IT Helpdesk Technician since 2025
 * Exploring opportunities in digital forensics, incident response, security operations, and cybersecurity
 * Currently exploring how artificial intelligence can be used to automate security workflows.
 
