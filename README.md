@@ -17,7 +17,7 @@ I'm always looking for another system to understand, tool to learn, or rabbit ho
 * Expected graduation: December 2027
 * Working as an IT Helpdesk Technician since 2025
 * Exploring opportunities in digital forensics, incident response, security operations, and cybersecurity
-* Currently exploring how artificial intelligence can be used to automate security workflows.
+* Currently exploring how artificial intelligence can be used to automate security workflows
 
 
 ## How I Like to Learn
